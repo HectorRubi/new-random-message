@@ -14,7 +14,15 @@
   "author": "Hector Rubi <hector.rubi.garcia@outlook.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorRubi/new-random-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HectorRubi/new-random-message/issues"
+  },
+  "homepage": "https://github.com/HectorRubi/new-random-message#readme"
 }
